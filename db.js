@@ -27,5 +27,5 @@ const privatePosts = [
 ]
 
 module.exports = {
-    users
+    users,publicPosts,privatePosts
 }
